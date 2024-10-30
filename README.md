@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AhmadAli-68
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Ahmad Ali
+- 👀 I’m becoming a Full Stack Web Developer
 - 📫 How to reach me ...
+- https://www.instagram.com/_.a.h_m.a_d_/
 - 😄 Pronouns: he/him
 
 <!---
