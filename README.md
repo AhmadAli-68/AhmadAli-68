@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ahmad Ali
 - 👀 I’m becoming a Full Stack Web Developer
-- 📫 How to reach me ...
-- https://www.instagram.com/_.a.h_m.a_d_/
 - 😄 Pronouns: he/him
 
 <!---
