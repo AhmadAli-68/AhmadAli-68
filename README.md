@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate and dedicated Full Stack Developer</h3>
+<h3 align="center">A passionate and dedicated Full Stack Web Developer</h3>
 
 ###
 
