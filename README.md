@@ -12,19 +12,19 @@
 
 ###
 
-<p align="left">Connect with me:</p>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/ahmad-ali-dev/" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://x.com/Ahmadx_Ali" width="52" height="40" alt="twitter logo"  />
-  <img src="https://www.instagram.com/_.a.h_m.a_d_/" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
 
-<p align="left">Language and Tools:</p>
+<h3 align="left">Language and Tools:</h3>
 
 ###
 
