@@ -74,7 +74,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Ahmad Ali">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ahmad%20Ali&count=1" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31wkp7klamb4ed2u2iyjt7cocn6q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wkp7klamb4ed2u2iyjt7cocn6q&count=2&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
