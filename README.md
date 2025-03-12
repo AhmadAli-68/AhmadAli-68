@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working on Backend Development<br>📚 I'm currently learning Next.js<br>⚡ In my free time, I explore different tech trends<br>📫 How to reach me <a href="mailto:ahmad.ali619x@gmail.com">ahmad.ali619x@gmail.com</a></h5>
+<p align="left">🔭 I’m currently working on Backend Development<br>📚 I'm currently learning Next.js<br>⚡ In my free time, I explore different tech trends<br>📫 How to reach me <a href="mailto:ahmad.ali619x@gmail.com">ahmad.ali619x@gmail.com</a></p>
 
 ###
 
