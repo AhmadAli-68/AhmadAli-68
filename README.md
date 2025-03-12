@@ -12,6 +12,14 @@
 
 ###
 
+<h2 align="left">About Me:</h2>
+
+###
+
+<p align="left">🔭 I’m currently working on Backend Development<br>📚 I'm currently learning Next.js<br>⚡ In my free time, I explore different tech trends<br>📫 How to reach me <a href="mailto:ahmad.ali619x@gmail.com">ahmad.ali619x@gmail.com</a></p>
+
+###
+
 <h3 align="left">Connect with me:</h3>
 
 ###
