@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Language and Tools:</h3>
+<h2 align="left">Language and Tools:</h2>
 
 ###
 
