@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">💡About Me</h2>
+<h2 align="center">💡 About Me</h2>
 
 ###
 
@@ -59,12 +59,6 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 ###
-
-<div align="center"> 
-  <a href="mailto:dev.ahmadalii@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" /> </a> 
-  <a href="https://www.linkedin.com/in/ahmad-ali-dev/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /> </a> 
-  <a href="https://www.facebook.com/ahmadhasan556" target="_blank"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" /> </a> 
-</div>
 
 ###
 
