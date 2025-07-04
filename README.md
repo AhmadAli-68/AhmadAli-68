@@ -60,6 +60,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmadAli-68&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 ###
 
 <div align="center">
@@ -75,6 +79,14 @@
 ###
 
 <h2 align="center">🌐 Connect with me</h2>
+
+###
+
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ahmad-ali-dev/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/dev.ahmad_/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
+<a target="_blank" href="https://x.com/Ahmadx_Ali" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+</div>
 
 ###
 
