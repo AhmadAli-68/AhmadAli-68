@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 Currently learning Next.js and TypeScript<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development<br>📫 How to reach me: dev.ahamdalii@gmail.com</p>
+<h4 align="center">📚 Currently learning Next.js and TypeScript<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development<br>📫 How to reach me: dev.ahamdalii@gmail.com</h4>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="45" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
   <img width="15" />
@@ -66,7 +66,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
