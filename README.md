@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 Currently learning Next.js and TypeScript<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development<br>📫 How to reach me: <a href="mailto">dev.ahamdalii@gmail.com</a></p>
+<p align="center">📚 Currently learning Next.js and TypeScript<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development<br>📫 How to reach me: <a href="">dev.ahamdalii@gmail.com</a></p>
 
 ###
 
