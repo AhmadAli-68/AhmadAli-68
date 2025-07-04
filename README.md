@@ -17,7 +17,7 @@
 ###
 
 <ul align="center">
-<li>📚 I'm currently learning TypeScript</li>
+  <li>📚 I'm currently learning TypeScript</li>
   <li>🔭 I’m currently working on Backend Development</li>
   <li>⚡ In my free time, I explore different tech trends</li>
   <li>📫 How to reach me <a href="mailto:ahmad.ali619x@gmail.com">dev.ahmadalii@gmail.com</a></li>
