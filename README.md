@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
+<h1 align="center">Hey there 👋, I'm Ahmad Ali</h1>
 
 ###
 
-<h3 align="center">A passionate and dedicated Full Stack Web Developer</h3>
+<h2 align="center">A passionate and dedicated Full Stack Web Developer</h2>
 
 ###
 
@@ -12,33 +12,24 @@
 
 ###
 
-<h2 align="left">About Me:</h2>
+<h2 align="center">💡 About Me</h2>
 
 ###
 
-<ul align="left">
-<li>🔭 I’m currently working on Backend Development</li><br><li>📚 I'm currently learning TypeScript</li><br><li>⚡ In my free time, I explore different tech trends</li><br><li>📫 How to reach me <a href="mailto:ahmad.ali619x@gmail.com">dev.ahmadalii@gmail.com</a></li>
+<ul align="center">
+<li>📚 I'm currently learning TypeScript</li>
+  <li>🔭 I’m currently working on Backend Development</li>
+  <li>⚡ In my free time, I explore different tech trends</li>
+  <li>📫 How to reach me <a href="mailto:ahmad.ali619x@gmail.com">dev.ahmadalii@gmail.com</a></li>
 </ul>
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="center">🛠️ Language and Tools</h2>
 
 ###
 
-<div align="left">
-<a href="https://www.linkedin.com/in/ahmad-ali-dev/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-<a href="https://x.com/Ahmadx_Ali"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-<a href="https://www.instagram.com/dev.ahmad_/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-</div>
-
-###
-
-<h2 align="left">Language and Tools:</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -76,13 +67,26 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
+<h2 align="center">📊 My GitHub Stats</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAli-68&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAli-68&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AhmadAli-68&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">🌐 Connect with me</h2>
+
+###
+
+<div align="center">
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-ali-dev/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/dev.ahmad_/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
+<a target="_blank" href="https://twitter.com/https://x.com/Ahmadx_Ali" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+</div>
