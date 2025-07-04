@@ -67,12 +67,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmadAli-68&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
 </div>
 
