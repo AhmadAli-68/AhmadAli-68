@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">🔥 My GitHub Stats</h2>
 
 ###
 
