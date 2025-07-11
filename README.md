@@ -49,8 +49,6 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="figma logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="bootstrap logo"  />
 </div>
 
