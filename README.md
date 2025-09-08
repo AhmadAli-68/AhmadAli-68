@@ -1,3 +1,5 @@
+ <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FF99&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /> </div>
+
 <h1 align="center">Hey there 👋, I'm Ahmad Ali</h1>
 
 ###
