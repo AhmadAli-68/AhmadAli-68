@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">📚 Currently learning Next.js and TypeScript<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development</p>
+<p align="center">📚 Currently learning Python + Emerging Technologies<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development</p>
 
 ###
 
