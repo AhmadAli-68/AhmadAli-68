@@ -25,27 +25,28 @@
 ###
 
 <div align="center">
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="45" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="express logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="react logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="40" alt="redux logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="typescript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="45" alt="css logo"  />
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="css logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="git logo"  />
   <img width="15" />
@@ -60,6 +61,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="tailwindcss logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="bootstrap logo"  />
+  <img width="15" />
 </div>
 
 ###
