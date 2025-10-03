@@ -48,6 +48,8 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="css logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="tailwindcss logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="github logo"  />
@@ -57,8 +59,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" height="45" alt="tailwindcss logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="bootstrap logo"  />
   <img width="15" />
