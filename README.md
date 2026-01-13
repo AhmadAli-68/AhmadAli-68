@@ -78,8 +78,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmadAli-68&theme=github-dark&border_radius=5&card_width=495&card_height=190" alt="GitHub Streak" /></a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
 </div>
