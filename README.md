@@ -106,7 +106,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmadAli-68.AhmadAli-68&left_text=visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmadAli-68.AhmadAli-68&left_text=Visitors"  />
 </div>
 
 <div align="center">
