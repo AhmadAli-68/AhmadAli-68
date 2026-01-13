@@ -72,7 +72,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAli-68&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=AhmadAli-68&theme=github-dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmadAli-68&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
