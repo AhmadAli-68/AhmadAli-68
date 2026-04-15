@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="inline-center">
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45" height="45" alt="javascript logo"  />
   <img width="15" />
