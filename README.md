@@ -2,23 +2,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Ahmad+Ali;Full+Stack+Web+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Developer | Next.js Developer</h3>
 
-<h1 align="center">Hey there 👋, I'm Ahmad Ali</h1>
-
-###
-
-<h1 align="center">A passionate and dedicated Full Stack Web Developer</h1>
-
-###
+---
 
 <h2 align="center">💡 About Me</h2>
 
-###
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+<table align="center">
+  <tr>
+    <td>
 
 🔭 Currently building backend applications with Node.js and Express
 
@@ -26,7 +19,7 @@
 
 💻 Experienced with MERN Stack Development
 
-⚡ Interested in Web Development, AI, and emerging technologies
+⚡ Interested in Web Development, AI, Automation, and emerging technologies
 
 📚 Always learning and improving my skills
 
@@ -34,11 +27,9 @@
   </tr>
 </table>
 
-###
+---
 
 <h2 align="center">🛠️ Language and Tools</h2>
-
-###
 
 <div align="center">
   <img width="12" />
@@ -88,11 +79,9 @@
   <img width="12" />
 </div>
 
-###
+---
 
 <h2 align="center">🔥 My GitHub Stats</h2>
-
-###
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmadAli-68&theme=github-dark&card_width=495&card_height=195" alt="GitHub Streak" /></a>
@@ -102,11 +91,9 @@
   <img src="https://raw.githubusercontent.com/AhmadAli-68/AhmadAli-68/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+---
 
 <h2 align="center">🌐 Connect with me</h2>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmad-ali-dev/" target="_blank">
@@ -122,8 +109,6 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmadAli-68.AhmadAli-68&left_text=Profile%20visits"  />
