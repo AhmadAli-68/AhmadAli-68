@@ -9,23 +9,13 @@
 
 <h2 align="center">💡 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td>
-
-🔭 Currently building backend applications with Node.js and Express
-
-🌱 Learning advanced backend concepts and system design
-
-💻 Experienced with MERN Stack Development
-
-⚡ Interested in Web Development, AI, Automation, and emerging technologies
-
-📚 Always learning and improving my skills
-
-  </td>
-  </tr>
-</table>
+<div align="center">
+  ⚡ Interested in Web Development, AI, Automation, and emerging technologies<br>
+  🔭 Currently building backend applications with Node.js and Express<br>
+  🌱 Learning advanced backend concepts and system design<br>
+  💻 Experienced with MERN Stack Development<br>
+  📚 Always learning and improving my skills
+</div>
 
 ---
 
