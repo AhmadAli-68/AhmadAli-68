@@ -16,7 +16,23 @@
 
 ###
 
-<p align="center">📚 Currently learning Backend + emerging technologies<br>⚡ In my free time, I explore different tech trends<br>🔭 I’m currently working on Backend Development</p>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+
+🔭 Currently building backend applications with Node.js and Express
+
+🌱 Learning advanced backend concepts and system design
+
+💻 Experienced with MERN Stack Development
+
+⚡ Interested in Web Development, AI, and emerging technologies
+
+📚 Always learning and improving my skills
+
+  </td>
+  </tr>
+</table>
 
 ###
 
