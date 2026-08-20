@@ -76,7 +76,7 @@
 <h2 align="center">🔥 My GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmadAli-68&theme=github-dark&border_radius=8&card_width=495&card_height=195" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmadAli-68&theme=github-dark&border_radius=10&card_width=495&card_height=195" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
